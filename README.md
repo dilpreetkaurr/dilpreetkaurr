@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dilpreetkaurr
 - 🌱 I’m currently pursuing Bachelors of Computer Appications
-- 📫 How to reach me @dilpreetkaurpanesar@gmail.com
+- 📫 How to reach me dilpreetkaurpanesar@gmail.com
 
 <!---
 dilpreetkaurr/dilpreetkaurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
